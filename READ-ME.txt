@@ -1,0 +1,9 @@
+  =>  Template Name    : Dynamic Valves
+
+  =>  Template Link    : dynamicvalves.co.in
+
+  =>  Template License : dynamicvalves.co.in
+
+  =>  Template Author  : Akhtar Khan
+
+  =>  Author Website   : Akhtar Khan
